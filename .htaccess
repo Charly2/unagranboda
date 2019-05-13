@@ -1,0 +1,9 @@
+ErrorDocument 500 /info.php
+
+    Options -Multiviews
+    RewriteEngine On
+    RewriteBase /boda
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    DirectoryIndex control.php?controller=index
+    RewriteRule ^([^\.]+)$ control.php?controller=$1&%{QUERY_STRING}  [NC,L]
