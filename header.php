@@ -6,15 +6,17 @@
 
 <head>
     <meta charset="utf-8">
+    <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>BodasMINIMAL AGENCY TEMPLATE</title>
+    <title><?=$_TITULO?></title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/flexslider.css">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 </head>
 
 <body>
@@ -47,7 +49,7 @@
             <nav class="navigation" style="line-height: 3" role="navigation">
                 <ul class="primary-nav">
                     <li><a href="index">Inicio</a></li>
-                    <li><a href="productos">Pruductos</a></li>
+                    <li><a href="productos">Productos</a></li>
                     <li><a href="#contact">Contacto</a></li>
 
                 </ul>

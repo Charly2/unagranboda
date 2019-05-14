@@ -8,7 +8,7 @@
         <div class="col-md-2 left">
             <h4>Contacto</h4>
             <p> Teléfono: 5586181209 <br>
-                Email : <a href="mailto:contacto@unagranboda.com"> unagranboda.com </a></p>
+                Email : <a href="mailto:infopara@unagranboda.com"> infopara@unagranboda.com </a></p>
         </div>
         <div class="col-md-2 left">
             <!--<h4>Social presense</h4>
@@ -20,7 +20,7 @@
             </ul>-->
         </div>
         <div class="col-md-6 right">
-            <p>© 2015 Todas los derechos reservados<br>
+            <p>© 2019 Todas los derechos reservados<br>
                 Hecho con  <i class="fa fa-heart pulse"></i> por <a href="http://unagranboda.com/">Una Gran Boda</a></p>
         </div>
     </div>
@@ -28,7 +28,7 @@
 <!-- footer section -->
 
 <!-- JS FILES -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.flexslider-min.js"></script>
 <script src="js/retina.min.js"></script>

@@ -65,6 +65,31 @@ $_DATOS = [
         'titulo' => 'Invitación con Foto de Novios en B y N',
         'img' => 'wide-product-13.jpg',
         'id' => 12
+    ],
+    13 =>  [
+        'titulo' => 'Invitación Rosa con Flores',
+        'img' => 'wide-product-14.jpg',
+        'id' => 13
+    ],
+    14 =>  [
+        'titulo' => 'Invitación Rosa con Blanco y detalles Dorados',
+        'img' => 'wide-product-15.jpg',
+        'id' => 14
+    ],
+    15 =>  [
+        'titulo' => 'Invitación con Flores Rosas',
+        'img' => 'wide-product-16.jpg',
+        'id' => 15
+    ],
+    16 =>  [
+        'titulo' => 'Invitación Azul con gris y detalles Dorados',
+        'img' => 'wide-product-17.jpg',
+        'id' => 16
+    ],
+    17 =>  [
+        'titulo' => 'Invitación Abstracta Azul',
+        'img' => 'wide-product-18.jpg',
+        'id' => 17
     ]
 ];
 
